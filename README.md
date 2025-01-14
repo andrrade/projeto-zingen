@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Projeto de uma Landing Page de um aplicativo de karaokê desenvolvido durante as aulas de Responsividade na Rocketseat.
+  Projeto de uma Landing Page de um Aplicativo de Karaokê "Zingen", desenvolvido durante as aulas de Responsividade da Rocketseat.
 </p>
 
 <p align="center">
